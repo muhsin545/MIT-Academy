@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Learn Digital Marketing ",
+        "Price": "$340",
+        "Ratings": 4,
+        "img": "https://www.whizlabs.com/blog/wp-content/uploads/2019/01/best-digital-marketing-courses.png",
+        "time": "150.30 Hours"
+    },
+    {
+        "name": "Basic Digital Marketing  ",
+        "Price": "$200",
+        "Ratings": 3,
+        "img": "https://miro.medium.com/max/1170/0*gkKXXa1pU52CCdER.jpg",
+        "time": "110 Hours"
+    },
+    {
+        "name": "Get Digital Marketing ",
+        "Price": "$300",
+        "Ratings": 3,
+        "img": "https://www.ogmatechlab.com/wp-content/uploads/2020/06/digitalmarketing850.jpg",
+        "time": "120 Hours"
+    },
+    {
+        "name": " Marketing With  Tahir",
+        "Price": "$350",
+        "Ratings": 5,
+        "img": "https://www.whizlabs.com/blog/wp-content/uploads/2019/01/best-digital-marketing-courses.png",
+        "time": "123.50 Hours"
+    }
+]

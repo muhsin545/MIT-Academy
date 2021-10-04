@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Web Development",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus, dicta beatae consectetur laudantium, porro placeat maiores ipsa veniam perferendis eaque aliquid ratione architecto quis expedita sapiente, rem minus asperiores exercitationem.",
+        "Price": " $600",
+        "Ratings": 5,
+        "img": "https://ares.decipherzone.com/blog-manager/uploads/banner_webp_bea99db8-7dba-41e7-941c-de4b61cc1650.webp"
+    },
+    {
+        "name": "Web Design ",
+        "Price": " $300",
+        "Ratings": 4,
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus, dicta beatae consectetur laudantium, porro placeat maiores ipsa veniam perferendis eaque aliquid ratione architecto quis expedita sapiente, rem minus asperiores exercitationem.",
+        "img": "https://thumbs.dreamstime.com/b/responsive-web-design-page-promotion-different-display-devices-office-studio-desk-cioncept-graphic-elements-wall-174870257.jpg"
+    },
+    {
+        "name": "Digital Marketing",
+        "Price": " $250",
+        "Ratings": 3,
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus, dicta beatae consectetur laudantium, porro placeat maiores ipsa veniam perferendis eaque aliquid ratione architecto quis expedita sapiente, rem minus asperiores exercitationem.",
+        "img": "https://image.shutterstock.com/image-photo/digital-marketing-media-technology-graphic-260nw-457517419.jpg"
+    },
+    {
+        "name": "Graphics",
+        "Price": " $500",
+        "Ratings": 4,
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus, dicta beatae consectetur laudantium, porro placeat maiores ipsa veniam perferendis eaque aliquid ratione architecto quis expedita sapiente, rem minus asperiores exercitationem.",
+        "img": "https://www.freepik.com/blog/app/uploads/2016/12/An-Introduction-To-Graphic-Design-Part-1.jpg"
+    }
+]

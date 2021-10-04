@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Graphics Design Course",
+        "Price": "$340",
+        "Ratings": 4,
+        "img": "https://ltcti.cu.ma/wp-content/uploads/2020/07/Advanced-Graphic-Design-course-in-uttara.jpg",
+        "time": "150 Hours"
+    },
+    {
+        "name": "Basic Graphics Design  ",
+        "Price": "$100",
+        "Ratings": 3,
+        "img": "https://techgeeksworld.com/wp-content/uploads/2020/08/Learning-Graphic-Design-Courses-Online-in-the-United-Kingdom.jpg",
+        "time": "110 Hours"
+    },
+    {
+        "name": "Graphic Design MasterClass ",
+        "Price": "$300",
+        "Ratings": 3,
+        "img": "https://static.skillshare.com/uploads/video/thumbnails/3ccfb0086a3a7b609c905750075bd1cf/448-252",
+        "time": "120 Hours"
+    },
+    {
+        "name": "Learn Graphics With Live Project",
+        "Price": "$350",
+        "Ratings": 5,
+        "img": "https://www.freepik.com/blog/app/uploads/2016/12/An-Introduction-To-Graphic-Design-Part-1.jpg",
+        "time": "200 Hours"
+    }
+]

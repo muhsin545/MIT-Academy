@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Web Design  With Sanjid Mahi ",
+        "Price": "$500",
+        "Ratings": 5,
+        "img": "https://5.imimg.com/data5/YG/GV/GLADMIN-49123937/web-designing-training-course-500x500.jpg",
+        "Duration": "4 Month"
+    },
+    {
+        "name": "Basic Web Design ",
+        "Price": "$200",
+        "Ratings": 4,
+        "img": "https://thumbs.dreamstime.com/b/responsive-web-design-page-promotion-different-display-devices-office-studio-desk-cioncept-graphic-elements-wall-174870257.jpg",
+        "Duration": " 3 Month"
+    },
+    {
+        "name": " Web  Design with 8 projects ",
+        "Price": "$400",
+        "Ratings": 3,
+        "img": "https://www.webzacademy.com/wp-content/uploads/2019/06/web-designing-banner-1200x600.jpg",
+        "Duration": "120 Days"
+    },
+    {
+        "name": "Web Design Crush Course",
+        "Price": "$150",
+        "Ratings": 4,
+        "img": "https://www.bapugraphics.com/multimediacoursetips/wp-content/uploads/2018/11/Web-Design-Course-Fees-and-Duration-In-Delhi.jpg",
+        "Duration": "90 Days"
+    }
+]

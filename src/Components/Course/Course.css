@@ -1,0 +1,12 @@
+.Courses{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-column-gap: 10px;
+}
+.course{
+    border: white 2px solid;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: left;
+    margin: 8px;
+}

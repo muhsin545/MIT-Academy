@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background-color: lightgray;
+}
+.headers{
+  color: blue;
+    text-transform: uppercase;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h5 .Rating{
+  color:gold;
+}
+.fontIcon{
+  color: tomato;
+}

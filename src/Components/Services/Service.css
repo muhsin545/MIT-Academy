@@ -1,0 +1,22 @@
+.graphics{
+display: grid;
+grid-template-columns: repeat(4,1fr);
+grid-column-gap: 10px;
+
+}
+.developments{
+    display: grid;
+grid-template-columns: repeat(4,1fr);
+grid-column-gap: 10px;
+}
+.digitals{
+display: grid;
+grid-template-columns: repeat(4,1fr);
+grid-column-gap: 10px;
+}
+.designs{
+display: grid;
+grid-template-columns: repeat(4,1fr);
+grid-column-gap: 10px;
+
+}

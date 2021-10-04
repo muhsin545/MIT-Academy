@@ -1,0 +1,18 @@
+.ChooseDiv{
+border: 3px solid white;
+margin: 3px;
+padding: 5px;
+border-radius: 12px;
+
+}
+.header{
+    font-size: 50px;
+    color: blue;
+    font-weight: 900;
+
+}
+.span{
+  font-size: 40px;
+    color: rgb(76, 76, 182);
+    font-weight: 900;
+}

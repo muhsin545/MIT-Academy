@@ -1,0 +1,22 @@
+.FooterLink{
+    display: block;
+    text-decoration: none;
+    padding: 2px;
+    font-size: 20px;
+}
+.FooterLink:hover{
+    text-decoration: underline;
+}
+.icon{
+    display: inline;
+    padding: 10px;
+    font-size: 30px;
+}
+.ContactIcon{
+    display: inline;
+    padding: 10px;
+    font-size: 50px;
+}
+.ContactIcons{
+    font-size: 25px;
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Web Development  With Jhankar Mahbub ",
+        "Price": "$5500",
+        "Ratings": 5,
+        "img": "https://web.programming-hero.com/thumbnail.png",
+        "Duration": "6 Month"
+    },
+    {
+        "name": "Basic Web Development Course  ",
+        "Price": "$200",
+        "Ratings": 4,
+        "img": "https://ares.decipherzone.com/blog-manager/uploads/banner_webp_bea99db8-7dba-41e7-941c-de4b61cc1650.webp",
+        "Duration": " 3 Month"
+    },
+    {
+        "name": "Full-Stack Web Development ",
+        "Price": "$500",
+        "Ratings": 3,
+        "img": "https://i.ytimg.com/vi/UoCnsh6x2ls/maxresdefault.jpg",
+        "Duration": "220 Days"
+    },
+    {
+        "name": "Web Development Crush Course",
+        "Price": "$350",
+        "Ratings": 4,
+        "img": "https://studywebdevelopment.com/images/courses-fb-share-img.jpg",
+        "Duration": "90 Days"
+    }
+]
